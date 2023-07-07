@@ -19,10 +19,3 @@
 <a href="https://linkedin.com/in/boopalan045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 
 </p>
-
-**My github stats**
-<p align="start"> <img src="https://github-readme-stats.vercel.app/api?username=boopalan045&count_private=true&show_icons=true&theme=radical" />
-
-**My Activity**
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boopalan045&" alt="jayant" /></p>
