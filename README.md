@@ -4,9 +4,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=boopalan045" alt="jayant" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **AI FaceRecognition App**
+- 🔭 I’m currently working on **Android 14 AOSP Automotive Development**
 
-- 🌱 I’m currently learning **ktor, automotive & jetpack compose :)**
+- 🌱 I’m currently learning **KTOR, KMM & jetpack compose :)**
 
 - 💬 Ask me about **Android , AOSP**
 
